@@ -1,3 +1,4 @@
+/*
 document.addEventListener("DOMContentLoaded", function () {
     const sudokuContainer = document.getElementById("sudoku-container");
 
